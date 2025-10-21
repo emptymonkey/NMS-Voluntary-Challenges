@@ -51,7 +51,6 @@ A nomadic survivalist theme — the game’s economy stripped to its rawest form
 ### **The Paranoia Challenge**
 Total isolation — fear and distrust of every intelligent life form.
 
-- Builds on **Living Off the Land (LOL)**.
 - Do **not interact** with any characters (NPCs or players).
 - **Avoid inhabited sites entirely**, retreat from or destroy any intelligent life that approachs.
 
