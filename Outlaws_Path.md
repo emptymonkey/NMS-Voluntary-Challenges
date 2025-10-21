@@ -54,10 +54,6 @@ NPC interactions in **Regulated Systems** are **restricted without a Forged Pass
   - Selling **illegal cargo only**; no selling or purchasing of legal goods without an active Forged Passport.
   - After selling contraband, you must **immediately leave the system.**
 
-- **If successfully scanned for illegal cargo:**
-  - You must **abandon all missions** related to that cargo.
-  - This represents protecting your contacts from exposure.
-
 ---
 
 ### 4. Violation Protocol
