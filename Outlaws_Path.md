@@ -30,10 +30,10 @@ All inhabited stations and freighters are restricted **except** in the following
 - **Regulated Systems** – Access permitted **only after turning in a Forged Passport**.
 
 #### Forged Passport Protocol
-- Upon leaving the system, all privileges **expire**.
 - **Bribe + Money Laundering:**
-  - To activate a Forged Passport, spend **1,000,000 Units** at a Trade Terminal on “worthless” material (e.g., Rusted Metal, Silver (which is easily mined from asteroids).  
+  - To activate a Forged Passport, spend **1,000,000 Units** at a Trade Terminal on “worthless” material.  
   - This represents the laundering of funds and bribes to secure false identity records.
+- Upon leaving the system, all privileges **expire**.
 - **Illegal actions immediately revoke privileges.**
 - **Forged Passport Limitations:**
   - You may carry **only one** at a time.
