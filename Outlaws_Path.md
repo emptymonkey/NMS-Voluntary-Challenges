@@ -31,13 +31,13 @@ All inhabited stations and freighters are restricted **except** in the following
 
 #### Forged Passport Protocol
 - **Bribe + Money Laundering:**
-  - To activate a Forged Passport, spend **1,000,000 Units** at a Trade Terminal on “worthless” material.  
+  - To activate a Forged Passport, spend **1,000,000 Units** at a Trade Terminal, then immediately discard the items.  
   - This represents the laundering of funds and bribes to secure false identity records.
 - Upon leaving the system, all privileges **expire**.
 - **Illegal actions immediately revoke privileges.**
 - **Forged Passport Limitations:**
   - You may carry **only one** at a time.
-  - You may use **only one per Region.**
+- **Planetary Trade Terminals** are always allowed **for the purpose of unloading illegal cargo only**, even without a Forged Passport.
 
 ---
 
@@ -49,14 +49,7 @@ NPC interactions in **Regulated Systems** are **restricted without a Forged Pass
 
 ---
 
-### 3. Trade & Contraband Rules
-- **Planetary Trade Terminals** are always allowed **only for the purpose of unloading illegal cargo**, even without a Forged Passport.
-  - Selling **illegal cargo only**; no selling or purchasing of legal goods without an active Forged Passport.
-  - After selling contraband, you must **immediately leave the system.**
-
----
-
-### 4. Violation Protocol
+### 3. Violation Protocol
 If you accidentally violate any restriction:
 
 1. **Dump all cargo.**
